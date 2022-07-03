@@ -1,5 +1,5 @@
 %btn {
-  background-color: #2980b9;
+  background-color: $color-grad-1;
   border-radius: 10rem;
   border: none;
   text-transform: uppercase;
@@ -129,7 +129,7 @@
   svg {
     height: 100%;
     width: 100%;
-    fill: $color-primary;
+    fill: $color-grey-light-1;
     transition: all 0.3s;
   }
 
@@ -155,7 +155,7 @@
 .heading--2 {
   font-size: 2rem;
   font-weight: 700;
-  color: $color-primary;
+  color: $color-grey-light-1;
   text-transform: uppercase;
   margin-bottom: 2.5rem;
   text-align: center;
@@ -200,7 +200,7 @@
   svg {
     height: 3rem;
     width: 3rem;
-    fill: $color-primary;
+    fill: $color-grey-light-1;
     transform: translateY(-0.3rem);
   }
 

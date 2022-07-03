@@ -8,6 +8,7 @@
       transition: all 0.3s;
       border-right: 1px solid #fff;
       text-decoration: none;
+      border-radius: 8px;
     }
 
     &:hover {
@@ -30,7 +31,7 @@
     backface-visibility: hidden;
 
     &::before {
-      content: '';
+      content: "";
       display: block;
       height: 100%;
       width: 100%;

@@ -46,7 +46,7 @@
 59D:\Recetas\node_modules\@parcel\transformer-babel\README.md133008572078565177 0
 45D:\Recetas\node_modules\core-js\web\README.md133008723145077914 0
 58D:\Recetas\node_modules\core-js\modules\esnext.array.at.js133008723088230179 0
-15D:\Recetas\dist133012384423705210 1
+15D:\Recetas\dist133012965729396995 1
 72D:\Recetas\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133008567671643034 0
 57D:\Recetas\node_modules\core-js\features\set-immediate.js133008723133349020 0
 54D:\Recetas\node_modules\svgo\plugins\removeMetadata.js133008567731516292 0
@@ -56,7 +56,7 @@
 36D:\Recetas\node_modules\browserslist133008567658996811 1
 58D:\Recetas\node_modules\caniuse-lite\data\features\ruby.js133008567847616429 0
 38D:\Recetas\node_modules\type-fest\ts41133008567722221138 1
-32D:\Recetas\src\sass\_recipe.scss133012320716103236 0
+32D:\Recetas\src\sass\_recipe.scss133012965720782603 0
 62D:\Recetas\node_modules\core-js\features\set\is-superset-of.js133008723119103781 0
 55D:\Recetas\node_modules\caniuse-lite\data\regions\KE.js133008567833220708 0
 18D:\Recetas\LICENSE133008743503476985 0
@@ -83,7 +83,7 @@
 30D:\Recetas\node_modules\@iarna133008572319677684 1
 51D:\Recetas\node_modules\core-js\es\string\search.js133008723133129512 0
 46D:\Recetas\node_modules\core-js\stable\atob.js133008723067392645 0
-21D:\Recetas\index.html133012333858542912 0
+21D:\Recetas\index.html133012944864447930 0
 48D:\Recetas\node_modules\terser\tools\terser.d.ts133008567749157277 0
 54D:\Recetas\node_modules\core-js\full\symbol\key-for.js133008723122836692 0
 23D:\Recetas\node_modules133008882246201437 1
@@ -105,7 +105,7 @@
 56D:\Recetas\node_modules\core-js\full\typed-array\with.js133008723144861531 0
 61D:\Recetas\node_modules\core-js\features\error\constructor.js133008723069570663 0
 43D:\Recetas\node_modules\msgpackr\index.d.ts133008567679905114 0
-39D:\Recetas\src\sass\_searchResults.scss132993840962203901 0
+39D:\Recetas\src\sass\_searchResults.scss133012950351801642 0
 42D:\Recetas\node_modules\lmdb\dict\dict.txt133008572051378411 0
 60D:\Recetas\node_modules\core-js\features\reflect\metadata.js133008723126114752 0
 32D:\Recetas\node_modules\@nodelib133008572390900100 1
@@ -148,7 +148,7 @@
 45D:\Recetas\node_modules\utility-types\LICENSE133008567588883669 0
 56D:\Recetas\node_modules\core-js\full\typed-array\join.js133008723122707355 0
 61D:\Recetas\node_modules\@parcel\utils\test\collection.test.js133008572087835260 0
-36D:\Recetas\src\sass\_components.scss133012331397145733 0
+36D:\Recetas\src\sass\_components.scss133012962661780314 0
 55D:\Recetas\node_modules\core-js\stable\date\set-year.js133008723133797725 0
 17D:\Recetas\src\js133008999876388058 1
 59D:\Recetas\node_modules\svgo\lib\svgo\css-select-adapter.js133008567685988817 0
@@ -195,7 +195,7 @@
 46D:\Recetas\node_modules\core-js\full\data-view133008723105659039 1
 65D:\Recetas\node_modules\caniuse-lite\data\features\videotracks.js133008567854043322 0
 55D:\Recetas\node_modules\source-map-support\package.json133008567613455787 0
-32D:\Recetas\src\sass\_header.scss133012343350452472 0
+32D:\Recetas\src\sass\_header.scss133012964129553302 0
 46D:\Recetas\node_modules\callsites\package.json133008567561080264 0
 35D:\Recetas\node_modules\htmlparser2133008572047129772 1
 62D:\Recetas\node_modules\core-js\full\array\virtual\group-by.js133008723102024398 0
@@ -215,7 +215,7 @@
 63D:\Recetas\node_modules\core-js\modules\es.reflect.construct.js133008723083341304 0
 80D:\Recetas\node_modules\@jridgewell\trace-mapping\dist\types\strip-filename.d.ts133008567680254183 0
 43D:\Recetas\node_modules\term-size\readme.md133008567636458073 0
-33D:\Recetas\src\sass\_preview.scss132993840962193910 0
+33D:\Recetas\src\sass\_preview.scss133012949407077117 0
 47D:\Recetas\node_modules\node-gyp-build\index.js133008572046451584 0
 32D:\Recetas\src\sass\_upload.scss132993840962213896 0
 63D:\Recetas\node_modules\core-js\proposals\decorator-metadata.js133008723074716935 0
@@ -1673,7 +1673,7 @@
 61D:\Recetas\node_modules\svgo\plugins\removeEmptyContainers.js133008567729870664 0
 63D:\Recetas\node_modules\css-tree\lib\common\OffsetToLocation.js133008567755270923 0
 60D:\Recetas\node_modules\core-js\full\reflect\get-metadata.js133008723100847575 0
-33D:\Recetas\dist\index.e37f48ea.js133012384423549113 0
+33D:\Recetas\dist\index.e37f48ea.js133012916861201649 0
 41D:\Recetas\node_modules\anymatch\index.js133008577250479417 0
 64D:\Recetas\node_modules\core-js\full\typed-array\uint32-array.js133008723142787102 0
 52D:\Recetas\node_modules\core-js\actual\math\hypot.js133008723103031928 0
@@ -3515,7 +3515,7 @@
 58D:\Recetas\node_modules\@parcel\graph\lib\AdjacencyList.js133008572051986811 0
 44D:\Recetas\node_modules\core-js\stable\array133008723144093631 1
 49D:\Recetas\node_modules\core-js\internals\task.js133008723138022164 0
-34D:\Recetas\dist\index.f7626f62.css133012384421466403 0
+34D:\Recetas\dist\index.f7626f62.css133012965729362242 0
 55D:\Recetas\node_modules\caniuse-lite\data\regions\ID.js133008567829939484 0
 68D:\Recetas\node_modules\core-js\proposals\array-filtering-stage-1.js133008723065348069 0
 54D:\Recetas\node_modules\core-js\full\weak-map\index.js133008723107903018 0
@@ -5912,7 +5912,7 @@
 54D:\Recetas\node_modules\core-js\actual\string\fixed.js133008723096865977 0
 57D:\Recetas\node_modules\core-js\actual\string\fontsize.js133008723098893890 0
 64D:\Recetas\node_modules\core-js\actual\string\from-code-point.js133008723099604928 0
-33D:\Recetas\dist\logo.726d37a8.png133012384421310166 0
+33D:\Recetas\dist\logo.726d37a8.png133012916860563491 0
 57D:\Recetas\node_modules\core-js\actual\string\includes.js133008723103348198 0
 54D:\Recetas\node_modules\core-js\actual\string\index.js133008723104415347 0
 56D:\Recetas\node_modules\core-js\actual\string\italics.js133008723120746050 0
@@ -7099,7 +7099,7 @@
 53D:\Recetas\node_modules\@parcel\markdown-ansi\LICENSE133008572115770417 0
 50D:\Recetas\node_modules\@parcel\transformer-js\lib133008572074705497 1
 64D:\Recetas\node_modules\@parcel\transformer-js\native-browser.js133008572074725444 0
-38D:\Recetas\dist\index.f7626f62.css.map133012384421466403 0
+38D:\Recetas\dist\index.f7626f62.css.map133012965729387078 0
 59D:\Recetas\node_modules\@parcel\transformer-js\package.json133008572074755352 0
 75D:\Recetas\node_modules\@parcel\transformer-js\parcel-swc.darwin-arm64.node133008572124975773 0
 82D:\Recetas\node_modules\@parcel\transformer-js\parcel-swc.linux-arm-gnueabihf.node133008572166679096 0
@@ -7612,10 +7612,10 @@
 37D:\Recetas\node_modules\.bin\svgo.ps1133008567924225938 0
 39D:\Recetas\node_modules\.bin\terser.cmd133008567924225938 0
 39D:\Recetas\node_modules\.bin\terser.ps1133008567924225938 0
-36D:\Recetas\dist\favicon.8b2f57bf.png133012384421153970 0
-34D:\Recetas\dist\icons.21bad73c.svg133012384423236579 0
-34D:\Recetas\dist\icons.dfd7a6db.svg133012384421466403 0
+36D:\Recetas\dist\favicon.8b2f57bf.png133012916861251538 0
+34D:\Recetas\dist\icons.21bad73c.svg133012916862228997 0
+34D:\Recetas\dist\icons.dfd7a6db.svg133012916860373863 0
 37D:\Recetas\dist\index.62406edb.js.map133008708480564943 0
-37D:\Recetas\dist\index.e37f48ea.js.map133012384423705210 0
-26D:\Recetas\dist\index.html133012384421310166 0
+37D:\Recetas\dist\index.e37f48ea.js.map133012916862149116 0
+26D:\Recetas\dist\index.html133012944869989045 0
 32D:\Recetas\.vscode\settings.json133012136176982821 0
